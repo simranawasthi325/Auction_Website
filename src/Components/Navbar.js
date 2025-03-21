@@ -6,7 +6,7 @@ function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg" style={{ backgroundColor: '#d84e55' }}>
       <div className="container">
-        <Link className="navbar-brand text-white fw-bold" to="/">
+        <Link className="navbar-brand text-white fw-bold" to="/home">
           Auction Website
         </Link>
         <button
@@ -23,7 +23,7 @@ function Navbar() {
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav ms-auto">
             <li className="nav-item">
-              <Link className="nav-link text-white fw-bold" to="/">
+              <Link className="nav-link text-white fw-bold" to="/home">
                 Home
               </Link>
             </li>
@@ -65,8 +65,8 @@ function Navbar() {
                   <hr className="dropdown-divider" />
                 </li>
                 <li>
-                  <Link className="dropdown-item fw-bold" to="/profile">
-                    Profile
+                  <Link className="dropdown-item fw-bold" to="/">
+                  Logout
                   </Link>
                 </li>
               </ul>
