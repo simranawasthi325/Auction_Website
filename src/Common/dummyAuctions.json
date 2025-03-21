@@ -1,0 +1,28 @@
+
+[
+    {
+      "id": 1,
+      "img": "https://via.placeholder.com/150",
+      "name": "Antique Vase",
+      "desc": "A beautiful handcrafted antique vase from the 18th century.",
+      "initialPrice": 5000,
+      "bidPrice": 7500
+    },
+    {
+      "id": 2,
+      "img": "https://via.placeholder.com/150",
+      "name": "Vintage Car Model",
+      "desc": "Limited edition 1967 Mustang car model. Rare and collectible.",
+      "initialPrice": 20000,
+      "bidPrice": 30000
+    },
+    {
+      "id": 3,
+      "img": "https://via.placeholder.com/150",
+      "name": "Classic Wristwatch",
+      "desc": "A timeless classic wristwatch with leather strap.",
+      "initialPrice": 10000,
+      "bidPrice": 15000
+    }
+  ]
+  
