@@ -1,4 +1,4 @@
-// src/pages/AuctionPage.js
+
 import React from 'react';
 
 function AuctionPage() {
